@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pygame==2.1.2
 pygame-gui==0.6.8
 python-i18n==0.3.9
+=======
+pygame==2.1.2
+pygame-gui==0.6.8
+python-i18n==0.3.9
+>>>>>>> 88f4f518deee7a615d37a15db823d73a8bf13df0
